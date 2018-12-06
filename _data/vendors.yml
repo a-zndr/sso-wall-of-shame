@@ -89,6 +89,14 @@
   pricing_source: https://about.gitlab.com/pricing
   updated_at: 2018-10-22
 
+- name: GoodHire
+  url: https://goodhire.com
+  base_pricing: metered per bg check
+  sso_pricing: $60 per u/y
+  percent_increase:  ∞%
+  pricing_source: call
+  updated_at: 2018-12-06
+
 - name: Intercom
   url: https://www.intercom.com
   base_pricing: $136
