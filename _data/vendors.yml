@@ -43,6 +43,15 @@
   pricing_source: https://www.box.com/pricing
   updated_at: 2018-10-17
 
+- name: Calendly
+  url: https://www.calendly.com
+  base_pricing: $8 per u/m
+  sso_pricing: $25 per u/m
+  percent_increase: 312.5%
+  footnotes: pricing isn't yet advertised
+  pricing_source: https://calendly.com/pages/pricing
+  updated_at: 2021-03-04
+
 - name: Checkly
   url: https://checklyhq.com/
   base_pricing: $29 per month
@@ -149,6 +158,14 @@
   percent_increase: 375%
   pricing_source: https://about.gitlab.com/pricing
   updated_at: 2018-10-21
+
+- name: Hootsuite
+  url: https://wwww.hootsuite.com
+  base_pricing: $49 per month
+  sso_pricing: enterprise+adon
+  footnotes: addons may be available to other tiers if you ask really really nicely, no official cost
+  ppricing_source: https://www.hootsuite.com/plans
+  updated_at: 2021-03-04
 
 - name: Hubspot Marketing
   url: https://www.hubspot.com
